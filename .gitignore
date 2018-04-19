@@ -1,0 +1,3 @@
+/* gitignore in root of puzzle-solutions */
+
+./*/.a.out
